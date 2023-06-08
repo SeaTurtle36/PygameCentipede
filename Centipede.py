@@ -1,3 +1,5 @@
+# Centipede from Atari 2600
+# Made with pygame
 import pygame
 import random
 
